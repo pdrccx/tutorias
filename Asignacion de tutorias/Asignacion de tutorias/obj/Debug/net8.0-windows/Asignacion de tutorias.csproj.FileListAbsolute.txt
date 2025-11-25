@@ -1,0 +1,33 @@
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\obj\Debug\net8.0-windows\Asignacion de tutorias.csproj.AssemblyReference.cache
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\obj\Debug\net8.0-windows\Asignacion_de_tutorias.Interfaz.resources
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\obj\Debug\net8.0-windows\Asignacion_de_tutorias.RegistroTutorias.resources
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\obj\Debug\net8.0-windows\Asignacion de tutorias.csproj.GenerateResource.cache
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\obj\Debug\net8.0-windows\Asignacion de tutorias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\obj\Debug\net8.0-windows\Asignacion de tutorias.AssemblyInfoInputs.cache
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\obj\Debug\net8.0-windows\Asignacion de tutorias.AssemblyInfo.cs
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\obj\Debug\net8.0-windows\Asignacion de tutorias.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\bin\Debug\net8.0-windows\Asignacion de tutorias.exe
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\bin\Debug\net8.0-windows\Asignacion de tutorias.deps.json
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\bin\Debug\net8.0-windows\Asignacion de tutorias.runtimeconfig.json
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\bin\Debug\net8.0-windows\Asignacion de tutorias.dll
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\bin\Debug\net8.0-windows\Asignacion de tutorias.pdb
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\obj\Debug\net8.0-windows\Asignaci.2E52DE07.Up2Date
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\obj\Debug\net8.0-windows\Asignacion de tutorias.dll
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\obj\Debug\net8.0-windows\refint\Asignacion de tutorias.dll
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\obj\Debug\net8.0-windows\Asignacion de tutorias.pdb
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\obj\Debug\net8.0-windows\Asignacion de tutorias.genruntimeconfig.cache
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\obj\Debug\net8.0-windows\ref\Asignacion de tutorias.dll
+C:\Users\Alfredo\Documents\Visual Studio 2022\septimo\Asignacion de tutorias\Asignacion de tutorias\obj\Debug\net8.0-windows\Asignacion_de_tutorias.Properties.Resources.resources
