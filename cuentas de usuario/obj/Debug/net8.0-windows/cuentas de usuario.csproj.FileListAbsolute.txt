@@ -1,0 +1,32 @@
+C:\Users\pedro\source\repos\cuentas de usuario\obj\Debug\net8.0-windows\cuentas de usuario.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\cuentas de usuario\obj\Debug\net8.0-windows\cuentas_de_usuario.Form1.resources
+C:\Users\pedro\source\repos\cuentas de usuario\obj\Debug\net8.0-windows\cuentas_de_usuario.frmRegistrar.resources
+C:\Users\pedro\source\repos\cuentas de usuario\obj\Debug\net8.0-windows\cuentas de usuario.csproj.GenerateResource.cache
+C:\Users\pedro\source\repos\cuentas de usuario\obj\Debug\net8.0-windows\cuentas de usuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\cuentas de usuario\obj\Debug\net8.0-windows\cuentas de usuario.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\cuentas de usuario\obj\Debug\net8.0-windows\cuentas de usuario.AssemblyInfo.cs
+C:\Users\pedro\source\repos\cuentas de usuario\obj\Debug\net8.0-windows\cuentas de usuario.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\cuentas de usuario\bin\Debug\net8.0-windows\cuentas de usuario.exe
+C:\Users\pedro\source\repos\cuentas de usuario\bin\Debug\net8.0-windows\cuentas de usuario.deps.json
+C:\Users\pedro\source\repos\cuentas de usuario\bin\Debug\net8.0-windows\cuentas de usuario.runtimeconfig.json
+C:\Users\pedro\source\repos\cuentas de usuario\bin\Debug\net8.0-windows\cuentas de usuario.dll
+C:\Users\pedro\source\repos\cuentas de usuario\bin\Debug\net8.0-windows\cuentas de usuario.pdb
+C:\Users\pedro\source\repos\cuentas de usuario\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\pedro\source\repos\cuentas de usuario\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\pedro\source\repos\cuentas de usuario\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\pedro\source\repos\cuentas de usuario\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\pedro\source\repos\cuentas de usuario\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\pedro\source\repos\cuentas de usuario\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\pedro\source\repos\cuentas de usuario\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\pedro\source\repos\cuentas de usuario\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\pedro\source\repos\cuentas de usuario\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\pedro\source\repos\cuentas de usuario\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\pedro\source\repos\cuentas de usuario\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\pedro\source\repos\cuentas de usuario\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\pedro\source\repos\cuentas de usuario\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\pedro\source\repos\cuentas de usuario\obj\Debug\net8.0-windows\cuentas .52DC74DF.Up2Date
+C:\Users\pedro\source\repos\cuentas de usuario\obj\Debug\net8.0-windows\cuentas de usuario.dll
+C:\Users\pedro\source\repos\cuentas de usuario\obj\Debug\net8.0-windows\refint\cuentas de usuario.dll
+C:\Users\pedro\source\repos\cuentas de usuario\obj\Debug\net8.0-windows\cuentas de usuario.pdb
+C:\Users\pedro\source\repos\cuentas de usuario\obj\Debug\net8.0-windows\cuentas de usuario.genruntimeconfig.cache
+C:\Users\pedro\source\repos\cuentas de usuario\obj\Debug\net8.0-windows\ref\cuentas de usuario.dll
