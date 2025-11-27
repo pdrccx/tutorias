@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alfredo\\Documents\\Visual Studio 2022\\septimo\\RegistroCanalizacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A06D98B6-A255-4B94-AEE1-16E941661AF4}|RegistroCanalizacion\\RegistroCanalizacion.csproj|c:\\users\\alfredo\\documents\\visual studio 2022\\septimo\\registrocanalizacion\\registrocanalizacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A06D98B6-A255-4B94-AEE1-16E941661AF4}|RegistroCanalizacion\\RegistroCanalizacion.csproj|solutionrelative:registrocanalizacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06D98B6-A255-4B94-AEE1-16E941661AF4}|RegistroCanalizacion\\RegistroCanalizacion.csproj|c:\\users\\alfredo\\documents\\visual studio 2022\\septimo\\registrocanalizacion\\registrocanalizacion\\bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06D98B6-A255-4B94-AEE1-16E941661AF4}|RegistroCanalizacion\\RegistroCanalizacion.csproj|solutionrelative:registrocanalizacion\\bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06D98B6-A255-4B94-AEE1-16E941661AF4}|RegistroCanalizacion\\RegistroCanalizacion.csproj|c:\\users\\alfredo\\documents\\visual studio 2022\\septimo\\registrocanalizacion\\registrocanalizacion\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06D98B6-A255-4B94-AEE1-16E941661AF4}|RegistroCanalizacion\\RegistroCanalizacion.csproj|solutionrelative:registrocanalizacion\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06D98B6-A255-4B94-AEE1-16E941661AF4}|RegistroCanalizacion\\RegistroCanalizacion.csproj|c:\\users\\alfredo\\documents\\visual studio 2022\\septimo\\registrocanalizacion\\registrocanalizacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06D98B6-A255-4B94-AEE1-16E941661AF4}|RegistroCanalizacion\\RegistroCanalizacion.csproj|solutionrelative:registrocanalizacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Alfredo\\Documents\\Visual Studio 2022\\septimo\\RegistroCanalizacion\\RegistroCanalizacion\\Form1.cs",
+              "RelativeDocumentMoniker": "RegistroCanalizacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\Alfredo\\Documents\\Visual Studio 2022\\septimo\\RegistroCanalizacion\\RegistroCanalizacion\\Form1.cs*",
+              "RelativeToolTip": "RegistroCanalizacion\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAhwBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:03:17.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Alumnos.cs",
+              "DocumentMoniker": "C:\\Users\\Alfredo\\Documents\\Visual Studio 2022\\septimo\\RegistroCanalizacion\\RegistroCanalizacion\\Alumnos.cs",
+              "RelativeDocumentMoniker": "RegistroCanalizacion\\Alumnos.cs",
+              "ToolTip": "C:\\Users\\Alfredo\\Documents\\Visual Studio 2022\\septimo\\RegistroCanalizacion\\RegistroCanalizacion\\Alumnos.cs",
+              "RelativeToolTip": "RegistroCanalizacion\\Alumnos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:09:24.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BD.cs",
+              "DocumentMoniker": "C:\\Users\\Alfredo\\Documents\\Visual Studio 2022\\septimo\\RegistroCanalizacion\\RegistroCanalizacion\\BD.cs",
+              "RelativeDocumentMoniker": "RegistroCanalizacion\\BD.cs",
+              "ToolTip": "C:\\Users\\Alfredo\\Documents\\Visual Studio 2022\\septimo\\RegistroCanalizacion\\RegistroCanalizacion\\BD.cs",
+              "RelativeToolTip": "RegistroCanalizacion\\BD.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwBAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:09:14.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alfredo\\Documents\\Visual Studio 2022\\septimo\\RegistroCanalizacion\\RegistroCanalizacion\\Form1.cs",
+              "RelativeDocumentMoniker": "RegistroCanalizacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\Alfredo\\Documents\\Visual Studio 2022\\septimo\\RegistroCanalizacion\\RegistroCanalizacion\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "RegistroCanalizacion\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:56:08.863Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
